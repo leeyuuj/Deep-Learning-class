@@ -23,6 +23,8 @@ Figure1.logistic regression model
 sigmoid unit을 쌓아서 만들 수 있다.
 
 1. feature $x$와 parameter $w, b$를 입력하면 $z^{[1]}$를 계산
-> [1] : 
+> $ x^{[i]} $ : i번째 layer
 
-3. 
+> $ x^{(i)} $ : i번째 trainning sample
+
+2. 

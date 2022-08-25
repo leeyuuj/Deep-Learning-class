@@ -84,3 +84,7 @@ Neural Network을 어떻게 구현하는지에 대한 개요
 <p align="center"> <img src="Neural Networks and Deep Learning/neural network/images/nn-back3.PNG"> </p>
 <p align="center"> Figure13. compute $ dW^{[2]}, db^{[2]} $ </p>
 <p align="center"> 3. $da^{[2]}$ , dz^{[2]} $를 가지고 $ dW^{[2]}, db^{[2]} $ 계산 </p> 
+
+---
+# 참고
+[Andrew Ng-Neural Network Overview]([https://www.youtube.com/watch?v=CcRkHl75Z-Y&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=26](https://www.youtube.com/watch?v=fXOsFF95ifk&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=25))

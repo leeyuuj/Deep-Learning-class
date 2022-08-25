@@ -6,7 +6,7 @@
 ## Preview
 * logistic regression
 
-<p align="center"> <img src="images/logisticreg1.PNG"> </p> </br>
+<p align="center"> <img src="Neural Networks and Deep Learning/neural networkimages/logistic1.PNG"> </p> </br>
 Figure1.logistic regression model
 
 1. feature $x$와 parameter $w, b$를 입력하면 $z$를 계산

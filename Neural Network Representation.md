@@ -38,21 +38,21 @@
 <p align="center"> <img src="Neural Networks and Deep Learning/neural network/images/hiddenl1.PNG"> </p>
 <p align="center"> Figure6.hidden layer1 </p> </br>
 
-$a^{[1]}$ = 
-$\begin{bmatrix}
-a_1^[1]\
-a_2^[1]\
-a_3^[1]\
-a_4^[1]\
-\end{bmatrix}$ 인 (1, 4)인 matrix or column vector </br>
+* $a^{[1]}= 
+\begin{bmatrix}
+a_1^{[1]}\\
+a_2^{[1]}\\
+a_3^{[1]}\\
+a_4^{[1]}\\
+\end{bmatrix}$ 
+인 (1, 4)인 matrix or column vector </br>
 은닉노드가 4개이기때문에 4차원이다.
 
 
 ### 은닉층과 연관된 parameter : $w^{[1]}, b^{[1]}$ 
 * 1번째 은닉층에 관련된 parameter : 윗첨자 [1]을 붙임 </br>
-$w^{[1]} = (4,3)$ </br>
-> 은닉노드 4개, feature 3개 </br>
-$ b^{[1]} = (4,1) $ 
+* $w^{[1]} = (4,3)$ : **은닉노드 4개, feature 3개**
+* $b^{[1]} = (4,1)$
 
 
 3. output layer
@@ -67,6 +67,7 @@ $ b^{[1]} = (4,1) $
 * $w^{[2]} = (1,4)$ </br>
 > 출력노드 1개, 은닉노드 4개
 * $b^{[2]} = (1,1)$ 
+
 
 # 정리
 * 신경망의 층을 셀때 입력층은 세지 않기때문에 이 신경망은 2 layer NN (2층 신경망)이다. </br>

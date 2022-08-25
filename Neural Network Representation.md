@@ -72,4 +72,4 @@ $ b^{[2]} = (1,1) $
 
 ---
 # 참고
-[Andrew Ng](https://www.youtube.com/watch?v=CcRkHl75Z-Y&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=26)
+[Andrew Ng-Neural Network Representations](https://www.youtube.com/watch?v=CcRkHl75Z-Y&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=26)
